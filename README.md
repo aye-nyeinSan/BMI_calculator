@@ -1,1 +1,2 @@
-![image](https://github.com/aye-nyeinSan/BMI_calculator/assets/56792505/a0ba5de0-488a-4655-a646-7a845a4f27e4)
+![image](https://github.com/aye-nyeinSan/BMI_calculator/assets/56792505/06a03310-964a-4771-80d1-2cf3fc8e68b5)
+
